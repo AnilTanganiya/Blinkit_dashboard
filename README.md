@@ -7,7 +7,7 @@ This project presents an interactive Power BI dashboard built using a Blinkit-st
 This project is created for portfolio purpose, showcasing skills in Power BI, data cleaning, DAX, and data visualization.
 
 📸 Dashboard Preview:
- [Dashboard Preview].(https://github.com/AnilTanganiya/Blinkit_dashboard/blob/main/Snapshot%20of%20Blinkit_Dashboard.png)
+ ![](https://github.com/AnilTanganiya/Blinkit_dashboard/blob/main/Snapshot%20of%20Blinkit_Dashboard.png)
 
 🛠 Tools & Technologies
 
