@@ -9,7 +9,8 @@ This project is created for portfolio purpose, showcasing skills in Power BI, da
 📸 Dashboard Preview:
  ![](https://github.com/AnilTanganiya/Blinkit_dashboard/blob/main/Snapshot%20of%20Blinkit_Dashboard.png)
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies:
+
 
 •	Power BI Desktop
 •	Power Query (Data Cleaning & Transformation)
@@ -19,21 +20,16 @@ This project is created for portfolio purpose, showcasing skills in Power BI, da
 🔄 Data Cleaning & Preparation:
 
 The following steps were performed in Power Query:
+
 •	Handling missing values in Item Weight and Outlet Size
 •	Standardizing Item Fat Content values
 •	Correcting data types
 •	Creating calculated columns and measures
 
+📊 Dashboard Highlights:
 
-🔄 Data Cleaning & Preparation
-The following steps were performed in Power Query:
-Handling missing values in Item Weight and Outlet Size
-Standardizing Item Fat Content values
-Correcting data types
-Creating calculated columns and measures
-
-📊 Dashboard Highlights
 The dashboard includes:
+
 •	Total Sales KPI
 •	Average Rating
 •	Sales by Item Type
@@ -42,7 +38,8 @@ The dashboard includes:
 •	Outlet Location-wise Sales
 •	Sales Trend by Outlet Establishment Year
 
-📈 Key Insights
+📈 Key Insights:
+
 •	Supermarkets generate higher sales compared to grocery stores
 •	Tier 3 locations contribute significantly to total sales
 •	Certain product categories consistently outperform others
